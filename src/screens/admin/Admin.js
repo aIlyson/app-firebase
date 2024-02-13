@@ -74,6 +74,7 @@ const Admin = () => {
   );
 };
 
+
 export default Admin
 const styles = StyleSheet.create({
   container: {
